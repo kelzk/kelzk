@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently an undergraduate student studying computer science.
-- 🔭 I’m learning web development.
+- 🔭 I’m an undergraduate student studying computer science.
+
